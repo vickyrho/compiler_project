@@ -11,3 +11,5 @@ The above procedure uses tesseract to scan printed text .
 
 For scanning handwritten texts you need to train your own data set .
 Some of the data sets trained are uploaded .
+
+For more information refer : https://github.com/tesseract-ocr/tesseract/wiki/TrainingTesseract-4.00 
